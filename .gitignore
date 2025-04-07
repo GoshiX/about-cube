@@ -4,3 +4,7 @@ data/handdrawn/*
 data/handdrawn-photo/*
 data/ideal/*
 data/ideal-photo/*
+!data/handdrawn/.gitkeep 
+!data/handdrawn-photo/.gitkeep
+!data/ideal/.gitkeep
+!data/ideal-photo/.gitkeep
