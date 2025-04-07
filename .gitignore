@@ -1,0 +1,6 @@
+__pycache__
+.venv
+data/handdrawn/*
+data/handdrawn-photo/*
+data/ideal/*
+data/ideal-photo/*
